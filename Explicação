@@ -1,0 +1,53 @@
+<head>:
+
+Contém informações meta sobre o documento, como codificação, título e links para arquivos de estilo.
+<title>:
+
+Define o título da página que aparece na aba do navegador.
+<link rel="stylesheet" href="styles.css">:
+
+Linka um arquivo CSS externo (styles.css) que contém estilos para a página.
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">:
+<body>:
+Contém o conteúdo visível da página.
+<header>:
+Define o cabeçalho da página.
+<div class="header-content">:
+Um contêiner para o conteúdo do cabeçalho, permitindo aplicar estilos específicos.
+<h1>:
+O título principal da página.
+<p>:
+
+Um parágrafo que fornece uma descrição ou subtítulo para a página.
+<section id="versao">:
+
+Uma seção que descreve o Controle de Versão.
+
+<h2><i class="fas fa-code-branch"></i> Controle de Versão</h2>:
+
+Um cabeçalho secundário para a seção, com um ícone Font Awesome (fa-code-branch) antes do texto.
+<p>:
+
+Um parágrafo explicando o conceito de Controle de Versão.
+<section id="mudancas">:
+
+Uma seção que descreve o Controle de Mudanças.
+
+<h2><i class="fas fa-exchange-alt"></i> Controle de Mudanças</h2>:
+
+Um cabeçalho secundário com um ícone Font Awesome (fa-exchange-alt).
+<p>:
+
+Um parágrafo explicando o Controle de Mudanças.
+<section id="integracao">:
+
+Uma seção que descreve a Integração Contínua.
+
+<h2><i class="fas fa-sync"></i> Integração Contínua</h2>:
+
+Um cabeçalho secundário com um ícone Font Awesome (fa-sync).
+<p>:
+
+Um parágrafo explicando o conceito de Integração Contínua.
+
+  e o css foi usado para estilizar o site
